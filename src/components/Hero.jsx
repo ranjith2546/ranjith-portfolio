@@ -88,7 +88,7 @@ function Hero() {
     <section className="hero" style={{ padding: 0, maxWidth: '100%' }}>
       <div className="hero-left">
         <p className="hero-tag">// Sr. Software Engineer · Bengaluru, India</p>
-        <h1 className="hero-name">Ranjith<span>Kumar G</span></h1>
+        <h1 className="hero-name"><span>Ranjith</span>Kumar G</h1>
         <div className="hero-typing">
           <span className="typing-prefix">&gt;</span>
           <span className="typing-text">{typedText}</span>
